@@ -13,7 +13,7 @@
 ## How to run this application ##
  * git clone https://github.com/javalingappa/springboot-h2-database.git
  * git clone git@github.com:javalingappa/springboot-h2-database.git
- * cd assignment
+ * cd springboot-h2-database
  * mvn clean install
  * cd target 
  * java -jar  product_catalog-1.1.0-SNAPSHOT.jar
