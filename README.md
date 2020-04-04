@@ -11,7 +11,8 @@
  - [x] JUnit and Mockito
 
 ## How to run this application ##
- * git clone https://github.com/Saivara-57/assignment.git
+ * git clone https://github.com/javalingappa/springboot-h2-database.git
+ * git clone git@github.com:javalingappa/springboot-h2-database.git
  * cd assignment
  * mvn clean install
  * cd target 
